@@ -1,0 +1,6 @@
+name: Menke_repo
+dependencies:
+  - python=3.7
+  - pandas==0.25.0
+  - matplotlib
+  - scipy

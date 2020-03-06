@@ -1,6 +1,13 @@
 name: Menke_repo
+channels:
+  - defaults
+  - conda-forge
 dependencies:
-  - python=3.7
-  - pandas==0.25.0
+  - python>=3.7
+  - pandas
   - matplotlib
   - scipy
+  - jupyter
+  - nbformat
+  - pip:
+    - nmrglue

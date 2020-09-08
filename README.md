@@ -6,3 +6,4 @@ A series of jupyter notebooks and associated data files to help chemistry studen
 These notebooks can be accessed via Binder by clicking the blue badge above or at the following URL:
 https://mybinder.org/v2/gh/erik-menke/AnalyticalProjects/master
 
+Please note that, due to file size limitation on GitHub, the data file necessary for Notebook3 isn't available, so that notebook won't run on Binder.

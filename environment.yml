@@ -11,3 +11,4 @@ dependencies:
   - nbformat
   - pip:
     - nmrglue
+    - notebook-as-pdf

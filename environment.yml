@@ -9,6 +9,8 @@ dependencies:
   - scipy
   - jupyter
   - nbformat
+  - pyppeteer
+  - pip
   - pip:
     - nmrglue
     - notebook-as-pdf

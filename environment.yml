@@ -13,4 +13,4 @@ dependencies:
   - pip
   - pip:
     - nmrglue
-    - notebook-as-pdf
+    - notebook-as-pdf==0.4.0

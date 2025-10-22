@@ -9,6 +9,7 @@ dependencies:
   - scipy
   - jupyter
   - nbformat
+  - pandoc
   - pip
   - pip:
     - nmrglue
